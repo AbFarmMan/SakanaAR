@@ -60,6 +60,7 @@
     {"name":"Fish_Pull_Left","order":12,"path":"sprites/Fish_Pull_Left/Fish_Pull_Left.yy",},
     {"name":"Fish_Pull_Right","order":11,"path":"sprites/Fish_Pull_Right/Fish_Pull_Right.yy",},
     {"name":"mountain","order":24,"path":"sprites/mountain/mountain.yy",},
+    {"name":"Old_Man_TextBox","order":34,"path":"sprites/Old_Man_TextBox/Old_Man_TextBox.yy",},
     {"name":"Pull_Left","order":1,"path":"sprites/Pull_Left/Pull_Left.yy",},
     {"name":"Pull_Right","order":2,"path":"sprites/Pull_Right/Pull_Right.yy",},
     {"name":"sBox","order":23,"path":"sprites/sBox/sBox.yy",},

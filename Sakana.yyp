@@ -34,7 +34,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.1.152",
+    "IDEVersion":"2024.6.2.162",
   },
   "name":"Sakana",
   "resources":[
@@ -86,6 +86,7 @@
     {"id":{"name":"Fish_Pull_Left","path":"sprites/Fish_Pull_Left/Fish_Pull_Left.yy",},},
     {"id":{"name":"Fish_Pull_Right","path":"sprites/Fish_Pull_Right/Fish_Pull_Right.yy",},},
     {"id":{"name":"mountain","path":"sprites/mountain/mountain.yy",},},
+    {"id":{"name":"Old_Man_TextBox","path":"sprites/Old_Man_TextBox/Old_Man_TextBox.yy",},},
     {"id":{"name":"Pull_Back","path":"sprites/Pull_Back/Pull_Back.yy",},},
     {"id":{"name":"Pull_Left","path":"sprites/Pull_Left/Pull_Left.yy",},},
     {"id":{"name":"Pull_Right","path":"sprites/Pull_Right/Pull_Right.yy",},},
